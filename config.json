@@ -1,0 +1,11 @@
+{
+    "url" : "https://todoist.com/",
+    "loginPageInToDo":
+    {
+        "userName" : "hmodeka@gmail.com",
+        "password" : "hmodekanaan5653@"
+    },
+    "reporter": "allure-playwright"
+    
+
+}
